@@ -1,4 +1,4 @@
-grunt-spritesmith
+ grunt-spritesmith 
 =================
 Grunt library for using [spritesmith](https://github.com/Ensighten/spritesmith), a spritesheet and CSS pre-processor utility.
 
